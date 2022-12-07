@@ -1,2 +1,2 @@
-# ProjetoSrpingBatch
+# ProjetoSpringBatch
 Projeto utilizando o spring batch 
